@@ -1,0 +1,59 @@
+# Recipe Assistant Bot - Python Dependencies
+# Author: RSK World (https://rskworld.in)
+# Founder: Molla Samser
+# Designer & Tester: Rima Khatun
+# Contact: help@rskworld.in, +91 93305 39277
+# Year: 2026
+
+# Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# JSON Handling (built-in, but listing for clarity)
+# json - built-in module
+
+# Data Processing
+pandas==2.0.3
+
+# Image Processing
+Pillow==10.0.1
+
+# Voice Recognition and Speech
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pyaudio==0.2.11
+
+# Security and Authentication
+werkzeug==2.3.7
+
+# Smart Device Integration
+websockets==11.0.3
+asyncio-mqtt==0.13.0
+
+# Optional: OpenAI Integration (if using GPT)
+# openai==0.28.1
+
+# Optional: Enhanced Recipe API Integration
+# spoonacular==1.2.0
+
+# Development and Testing
+pytest==7.4.2
+pytest-flask==1.2.0
+
+# Production Server
+gunicorn==21.2.0
+
+# Logging
+colorlog==6.7.0
+
+# Date/Time Utilities
+python-dateutil==2.8.2
+
+# Additional Utilities
+# secrets - built-in Python module, no installation needed

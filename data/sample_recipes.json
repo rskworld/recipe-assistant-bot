@@ -1,0 +1,169 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "category": "Italian",
+      "ingredients": [
+        "400g spaghetti",
+        "4 large eggs",
+        "200g pancetta or bacon",
+        "100g Parmesan cheese",
+        "Black pepper",
+        "Salt"
+      ],
+      "instructions": [
+        "Cook spaghetti according to package directions",
+        "Meanwhile, fry pancetta until crispy",
+        "Beat eggs with grated Parmesan",
+        "Drain pasta and immediately toss with egg mixture",
+        "Add pancetta and season with pepper",
+        "Serve immediately with extra Parmesan"
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4,
+      "difficulty": "easy",
+      "dietary": ["vegetarian"],
+      "author": "RSK World Recipe Collection",
+      "year": "2026"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Stir Fry",
+      "category": "Asian",
+      "ingredients": [
+        "500g chicken breast",
+        "2 cups mixed vegetables",
+        "3 tbsp soy sauce",
+        "2 cloves garlic",
+        "1 inch ginger",
+        "2 tbsp vegetable oil",
+        "Rice for serving"
+      ],
+      "instructions": [
+        "Cut chicken into bite-sized pieces",
+        "Heat oil in wok or large pan",
+        "Cook chicken until golden",
+        "Add garlic and ginger, stir-fry for 1 minute",
+        "Add vegetables and stir-fry for 3-4 minutes",
+        "Add soy sauce and toss everything together",
+        "Serve over rice"
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "10 minutes",
+      "servings": 4,
+      "difficulty": "easy",
+      "dietary": ["gluten-free"],
+      "author": "RSK World Recipe Collection",
+      "year": "2026"
+    },
+    {
+      "id": 3,
+      "name": "Vegetable Curry",
+      "category": "Indian",
+      "ingredients": [
+        "2 cups mixed vegetables",
+        "400ml coconut milk",
+        "2 tbsp curry powder",
+        "1 large onion",
+        "3 cloves garlic",
+        "1 inch ginger",
+        "2 tbsp vegetable oil",
+        "Fresh cilantro"
+      ],
+      "instructions": [
+        "Heat oil in large pan",
+        "Sauté chopped onion until soft",
+        "Add minced garlic and ginger",
+        "Add curry powder and cook for 1 minute",
+        "Add vegetables and stir to coat",
+        "Pour in coconut milk and simmer for 15 minutes",
+        "Garnish with fresh cilantro",
+        "Serve with rice or naan bread"
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4,
+      "difficulty": "medium",
+      "dietary": ["vegan", "gluten-free"],
+      "author": "RSK World Recipe Collection",
+      "year": "2026"
+    },
+    {
+      "id": 4,
+      "name": "Greek Salad",
+      "category": "Mediterranean",
+      "ingredients": [
+        "4 large tomatoes",
+        "1 cucumber",
+        "1 red onion",
+        "200g feta cheese",
+        "1 cup Kalamata olives",
+        "3 tbsp olive oil",
+        "1 tbsp lemon juice",
+        "Dried oregano"
+      ],
+      "instructions": [
+        "Cut tomatoes into wedges",
+        "Slice cucumber and onion",
+        "Combine vegetables in large bowl",
+        "Add olives and crumbled feta",
+        "Drizzle with olive oil and lemon juice",
+        "Season with oregano, salt, and pepper",
+        "Toss gently and serve"
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "0 minutes",
+      "servings": 4,
+      "difficulty": "easy",
+      "dietary": ["vegetarian", "gluten-free"],
+      "author": "RSK World Recipe Collection",
+      "year": "2026"
+    },
+    {
+      "id": 5,
+      "name": "Beef Tacos",
+      "category": "Mexican",
+      "ingredients": [
+        "500g ground beef",
+        "8 taco shells",
+        "1 cup lettuce",
+        "2 tomatoes",
+        "1 cup cheese",
+        "1/2 cup sour cream",
+        "Taco seasoning",
+        "Salsa"
+      ],
+      "instructions": [
+        "Brown ground beef in large pan",
+        "Add taco seasoning and water",
+        "Simmer until thickened",
+        "Warm taco shells according to package",
+        "Fill shells with beef mixture",
+        "Top with lettuce, tomatoes, cheese, and sour cream",
+        "Serve with salsa on the side"
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4,
+      "difficulty": "easy",
+      "dietary": ["keto"],
+      "author": "RSK World Recipe Collection",
+      "year": "2026"
+    }
+  ],
+  "metadata": {
+    "total_recipes": 5,
+    "categories": ["Italian", "Asian", "Indian", "Mediterranean", "Mexican"],
+    "dietary_options": ["vegetarian", "vegan", "gluten-free", "keto"],
+    "author": "RSK World",
+    "founder": "Molla Samser",
+    "designer_tester": "Rima Khatun",
+    "contact": "help@rskworld.in",
+    "phone": "+91 93305 39277",
+    "website": "https://rskworld.in",
+    "year": "2026",
+    "description": "Sample recipe data for Recipe Assistant Bot - Educational Purpose Project"
+  }
+}
